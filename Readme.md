@@ -4,7 +4,7 @@
 
 
 
-### 📖 About This Curriculum
+## 📖 About This Curriculum
 
 This repository contains a comprehensive, 6-week intensive curriculum designed to teach Python programming from scratch with a specific focus on \*\*Data Analysis\*\* and \*\*Visualization\*\*.
 
@@ -14,7 +14,7 @@ The course takes learners from writing their first variable to performing Explor
 
 
 
-#### 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this course, students will be able to:
 
@@ -29,7 +29,7 @@ By the end of this course, students will be able to:
 
 
 
-##### 🧠 Who this is for
+## 🧠 Who this is for
 
 *  Beginners
 *  Data analysis students
@@ -41,7 +41,7 @@ By the end of this course, students will be able to:
 
 
 
-##### 📂 Repository Structure
+## 📂 Repository Structure
 
 
 
@@ -111,7 +111,7 @@ python-data-analysis-course/
 
 
 
-##### 📅 Course Structure
+## 📅 Course Structure
 
 **Module 1**: Python Basics \& Logic
 
@@ -129,7 +129,7 @@ python-data-analysis-course/
 
 
 
-##### 🚀 Getting Started
+## 🚀 Getting Started
 
 Prerequisites
 
@@ -195,7 +195,11 @@ jupyter notebook
 
 
 
-##### 🧪 Assignments \& Capstone
+
+
+
+
+## 🧪 Assignments \& Capstone
 
 Weekly Assignments: Located at the end of every module folder (e.g., week1\_assignment.ipynb). These challenge you to apply what you learned in that week's lessons.
 
@@ -205,29 +209,15 @@ Final Capstone: A guided project located in 06\_Final\_Project/. You will choose
 
 
 
-##### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-
-
-Fork the Project
-
-
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-
-
-Open a Pull Request
+* Fork the Project
+* Create your Feature Branch (git checkout -b feature/AmazingFeature)
+* Commit your Changes (git commit -m 'Add some AmazingFeature')
+* Push to the Branch (git push origin feature/AmazingFeature)
+* Open a Pull Request
 
 
 
