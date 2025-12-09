@@ -1,0 +1,30 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebooks ---
+# This ignores the auto-saved backup folders Jupyter creates
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Operating System Junk ---
+.DS_Store       # Mac
+Thumbs.db       # Windows
+
+# --- Environments ---
+# If you create a virtual environment, we don't upload it
+env/
+venv/
+.env
+
+# --- IDE Settings ---
+# Ignores settings files for VS Code or PyCharm
+.vscode/
+.idea/
+
+# --- Large Data ---
+# It is best practice NOT to push large datasets to GitHub.
+# We keep the folder, but ignore the content inside, or ignore specific large files.
+#Datasets/*.csv
+#Datasets/*.xlsx
+*.zip.ipynb_checkpoints/
