@@ -6,11 +6,11 @@
 
 ## 📖 About This Curriculum
 
-This repository contains a comprehensive, 6-week intensive curriculum designed to teach Python programming from scratch with a specific focus on \*\*Data Analysis\*\* and \*\*Visualization\*\*.
+This repository contains a comprehensive, 6-week intensive curriculum designed to teach Python programming from scratch with a specific focus on **Data Analysis** and **Visualization**.
 
 
 
-The course takes learners from writing their first variable to performing Exploratory Data Analysis (EDA) on real-world datasets using industry-standard libraries like \*\*Pandas\*\*, \*\*Numpy\*\*, \*\*Matplotlib\*\*, and \*\*Seaborn\*\*.
+The course takes learners from writing their first variable to performing Exploratory Data Analysis (EDA) on real-world datasets using industry-standard libraries like **Pandas, Numpy, Matplotlib,** and **Seaborn.**
 
 
 
@@ -49,57 +49,51 @@ The curriculum is organized into modular folders. Each folder contains Jupyter N
 
 
 
-python-data-analysis-course/
+python-data-analysis-class/
 
-│
+├── [.gitignore](https://github.com/olaoluwaoyebola/data-analysis-python-class/blob/main/.gitignore)               			# Files to exclude (like hidden temp files)
 
-├── .gitignore               # Files to exclude (like hidden temp files)
+├── [README.md](https://github.com/olaoluwaoyebola/data-analysis-python-class/blob/main/Readme.md)               		 	# Main landing page for the repo
 
-├── README.md                # Main landing page for the repo
+├── [requirements.txt](https://github.com/olaoluwaoyebola/data-analysis-python-class/blob/main/requirements.txt)         			# List of libraries students need to install
 
-├── requirements.txt         # List of libraries students need to install
+├── datasets/                			# Central folder for all CSVs/Excel files
 
-│
+│   ├── 
 
-├── datasets/                # Central folder for all CSVs/Excel files
+│   ├── 
 
-│   ├── sales\_data.csv
-
-│   ├── titanic.csv
-
-│   └── store\_report.csv
-
-│
+│   └── 
 
 ├── 01\_Basics/
 
-│   └── 01\_Basics\_Module.ipynb
+│   ├── 01\_Basics\_Module.ipynb
 
-│
+    └── week1\_assignment.ipynb
 
 ├── 02\_Data\_Structures/
 
-│   └── 02\_Data\_Structures\_Module.ipynb
+│   ├── 02\_Data\_Structures\_Module.ipynb
 
-│
+    └── week2\_assignment.ipynb
 
 ├── 03\_Numpy\_Files/
 
-│   └── 03\_Numpy\_Files\_Module.ipynb
+│   ├── 03\_Numpy\_Files\_Module.ipynb
 
-│
+    └── week3\_assignment.ipynb
 
 ├── 04\_Pandas/
 
-│   └── 04\_Pandas\_Module.ipynb
+│   ├── 04\_Pandas\_Module.ipynb
 
-│
+    └── week4\_assignment.ipynb
 
 ├── 05\_Visualisation/
 
-│   └── 05\_Visualisation\_Module.ipynb
+│   ├── 05\_Visualisation\_Module.ipynb
 
-│
+    └── week5\_assignment.ipynb
 
 └── 06\_Final\_Project/
 
@@ -141,11 +135,7 @@ To run these notebooks, you need Python 3.x installed. We highly recommend insta
 
 Clone the repository:
 
-
-
 Bash
-
-
 
 git clone https://github.com/yourusername/python-data-analysis.git
 
@@ -155,13 +145,9 @@ git clone https://github.com/yourusername/python-data-analysis.git
 
 Navigate to the directory:
 
-
-
 Bash
 
-
-
-cd Python-Data-Analysis-Curriculum
+cd data-analysis-python-class
 
 
 
@@ -169,11 +155,7 @@ cd Python-Data-Analysis-Curriculum
 
 Install Dependencies (if not using Anaconda):
 
-
-
 Bash
-
-
 
 pip install -r requirements.txt
 
@@ -183,11 +165,7 @@ pip install -r requirements.txt
 
 Launch Jupyter Notebook:
 
-
-
 Bash
-
-
 
 jupyter notebook
 
@@ -214,9 +192,9 @@ Final Capstone: A guided project located in 06\_Final\_Project/. You will choose
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 * Fork the Project
-* Create your Feature Branch (git checkout -b feature/AmazingFeature)
-* Commit your Changes (git commit -m 'Add some AmazingFeature')
-* Push to the Branch (git push origin feature/AmazingFeature)
+* Create your Feature Branch (git checkout -b feature/)
+* Commit your Changes (git commit -m '')
+* Push to the Branch (git push origin feature/)
 * Open a Pull Request
 
 
@@ -225,5 +203,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 
 
-Curriculum developed by \[Olaoluwa Oyebola/NUPAT Technologies]
+Curriculum developed by \[Olaoluwa Oyebola / [NUPAT Technologies](https://github.com/NUPAT-TECHNOLOGIES)]
 
