@@ -4,7 +4,7 @@ __pycache__/
 
 # --- Jupyter Notebooks ---
 # This ignores the auto-saved backup folders Jupyter creates
-.ipynb_checkpoints/
+.ipynb_checkpoints/*
 */.ipynb_checkpoints/
 
 # --- Operating System Junk ---
