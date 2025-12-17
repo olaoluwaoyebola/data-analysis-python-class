@@ -67,13 +67,13 @@ python-data-analysis-class/
 
 ├── 01\_Basics/
 
-│   ├── 01\_Basics\_Module.ipynb
+│   ├── Python\_Basics.ipynb
 
     └── week1\_assignment.ipynb
 
-├── 02\_Data\_Structures/
+├── 02\_Functions/
 
-│   ├── 02\_Data\_Structures\_Module.ipynb
+│   ├── 02\_Functions.ipynb
 
     └── week2\_assignment.ipynb
 
@@ -107,9 +107,9 @@ python-data-analysis-class/
 
 ## 📅 Course Structure
 
-**Module 1**: Python Basics \& Logic
+**Module 1**: Python Basics, Control Flow (Logic), and Data Structures (Lists, Dicts)
 
-**Module 2**: Data Structures (Lists, Dicts)
+**Module 2**: Functions 
 
 **Module 3**: File Handling \& Numpy
 
