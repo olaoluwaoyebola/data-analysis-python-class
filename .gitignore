@@ -25,6 +25,11 @@ venv/
 # --- Large Data ---
 # It is best practice NOT to push large datasets to GitHub.
 # We keep the folder, but ignore the content inside, or ignore specific large files.
-#Datasets/*.csv
-#Datasets/*.xlsx
+Datasets/*.csv
+Datasets/*.xlsx
 *.zip.ipynb_checkpoints/
+
+# --- Documents ---
+# Ignores any kind of document
+Docs/*.pdf
+Docs/*.docx
